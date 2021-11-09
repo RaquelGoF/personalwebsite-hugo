@@ -24,19 +24,15 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Formerly at Cardiff University and the University of Oxford
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Mathematics
+      institution: University of La Laguna
+    - course: MSc in Modern Applications of Mathematics
+      institution: University of Bath
+    - course: DPhil in Industrially Focused Mathematical Modelling
+      institution: University of Oxford
 email: ""
 superuser: true
 highlight_name: true
