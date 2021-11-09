@@ -1,7 +1,7 @@
 ---
 title: Raquel Gonzalez-Farina
 role: Applied Mathematician
-avatar_filename: photo_raquel1.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include ....
 interests:
   - Artificial Intelligence
