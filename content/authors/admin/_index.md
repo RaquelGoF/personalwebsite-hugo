@@ -1,8 +1,7 @@
 ---
 title: Raquel Gonzalez-Farina
 role: Applied Mathematician
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include ....
 interests:
   - Artificial Intelligence
   - Computational Linguistics
