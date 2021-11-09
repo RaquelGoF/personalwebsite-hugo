@@ -24,7 +24,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Formerly at Cardiff University and the University of Oxford
+  - name: Former PDRA at Cardiff University and PhD at the University of Oxford
+    url: ""
+  - name: InFoMM CDT
+    url: https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt
 education:
   courses:
     - course: DPhil in Industrially Focused Mathematical Modelling
