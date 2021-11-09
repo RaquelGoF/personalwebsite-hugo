@@ -35,7 +35,7 @@ education:
       year: 2021
     - course: MSc in Modern Applications of Mathematics
       institution: University of Bath
-      year: 2014
+      year: 2016
     - course: BSc in Mathematics
       institution: University of La Laguna
       year: 2015
