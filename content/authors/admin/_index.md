@@ -1,7 +1,7 @@
 ---
 title: Raquel Gonzalez-Farina
 role: Applied Mathematician
-avatar_filename: photo_raquel1.jpeg
+avatar_filename: ""
 bio: My research interests include ....
 interests:
   - Artificial Intelligence
@@ -24,9 +24,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Former PDRA at Cardiff University and PhD student at the University of
-      Oxford
+  - name: Formerly at
     url: ""
+  - name: Cardiff University
+    url: https://www.cardiff.ac.uk/mathematics
+  - name: University of Oxford
+    url: https://www.maths.ox.ac.uk/
   - name: InFoMM CDT
     url: https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt
 education:
