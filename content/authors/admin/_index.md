@@ -27,12 +27,12 @@ organizations:
   - name: Formerly at Cardiff University and the University of Oxford
 education:
   courses:
-    - course: BSc in Mathematics
-      institution: University of La Laguna
-    - course: MSc in Modern Applications of Mathematics
-      institution: University of Bath
     - course: DPhil in Industrially Focused Mathematical Modelling
       institution: University of Oxford
+    - course: MSc in Modern Applications of Mathematics
+      institution: University of Bath
+    - course: BSc in Mathematics
+      institution: University of La Laguna
 email: ""
 superuser: true
 highlight_name: true
