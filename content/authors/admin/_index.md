@@ -1,5 +1,5 @@
 ---
-title: Dr Raquel <br />
+title:    Dr Raquel   
 Gonzalez-Farina
 role: Applied Mathematician
 avatar_filename: avatar.jpg
