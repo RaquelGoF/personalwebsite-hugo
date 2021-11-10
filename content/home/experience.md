@@ -29,7 +29,7 @@ experience:
     location: United Kingdom
     date_start: '2021-02-01'
     date_end: '2021-05-31'
-    description: >-
+    description: |2-
         Responsibilities include:
         
         * Creating mathematical models
