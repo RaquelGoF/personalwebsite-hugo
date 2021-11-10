@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Academic positions
 subtitle:
 
 # Date format for experience
@@ -22,29 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Postdoctoral Research Associate
+    company: Cardiff University
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
+    location: United Kingdom
+    date_start: '2021-02-01'
+    date_end: '2021-05-31'
+    description: Researched this...|2-
+    
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+        * Creating mathematical models
+        * Welsh Government
+        * Multidisciplinary collaboration with professors and postdocs
+        * Presentation in conferences
+     
 design:
   columns: '2'
 ---
