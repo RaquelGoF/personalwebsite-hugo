@@ -14,8 +14,8 @@ menu_text_active = "#000"
 menu_title = "#000"
 
 # Links
-link = "#eb6f50"
-link_hover = "#eb6f50"
+link = "#FA5F46"  # "#eb6f50"
+link_hover = "##FA5F46"
 link_decoration = "underline"
 
 # Home sections
