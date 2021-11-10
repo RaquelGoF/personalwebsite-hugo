@@ -29,13 +29,7 @@ experience:
     location: United Kingdom
     date_start: '2021-02-01'
     date_end: '2021-05-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Creating mathematical models
-        * Welsh Government
-        * Collaboration with professors and postdocs
-        * Presentation in conferences
+    description: Researched.... Welsh gov multidisciplinary collaboration...
 
 design:
   columns: '2'
