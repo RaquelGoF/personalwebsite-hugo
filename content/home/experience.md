@@ -34,9 +34,9 @@ experience:
         
         * Creating mathematical models
         * Welsh Government
-        * Multidisciplinary collaboration with professors and postdocs
+        * Collaboration with professors and postdocs
         * Presentation in conferences
-     
+
 design:
   columns: '2'
 ---
