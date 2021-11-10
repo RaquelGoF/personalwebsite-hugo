@@ -27,8 +27,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/gonzalezfarinar
 organizations:
-  - name: Formerly at
-    url: ""
   - name: Cardiff University
     url: https://www.cardiff.ac.uk/mathematics
   - name: University of Oxford
