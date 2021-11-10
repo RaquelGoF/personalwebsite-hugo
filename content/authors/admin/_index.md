@@ -4,9 +4,9 @@ role: Applied Mathematician
 avatar_filename: avatar.jpg
 bio: My research interests include ....
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mathematical Modelling
+  - Fluid Mechanics
+  - Asymptotic
 social:
   - icon: envelope
     icon_pack: fas
