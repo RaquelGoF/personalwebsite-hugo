@@ -1,5 +1,5 @@
 ---
-title:    Dr Raquel  &nbsp;  Gonzalez-Farina
+title:    Dr Raquel Gonzalez-Farina
 role: Applied Mathematician
 avatar_filename: avatar.jpg
 bio: My research interests include ....
