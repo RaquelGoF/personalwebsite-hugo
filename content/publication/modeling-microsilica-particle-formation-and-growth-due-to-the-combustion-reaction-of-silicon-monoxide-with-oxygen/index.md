@@ -40,7 +40,7 @@ featured: true
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: SEM image of microsilica particles.
 date: 2020-04-27T02:13:38.192Z
 ---
