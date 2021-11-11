@@ -4,10 +4,10 @@ url_pdf: ""
 title: COVID-19 modelling
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
-subtitle: Cardiff University
+subtitle: Cardiff University, SSL, Welsh Government
 tags:
   - Deep Learning
 links:
