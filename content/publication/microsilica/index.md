@@ -28,7 +28,7 @@ abstract: Microsilica particles arise as a byproduct of silicon furnace operatio
 summary:
 
 tags:
-featured: false
+featured: true
 
 weight: 30
 
