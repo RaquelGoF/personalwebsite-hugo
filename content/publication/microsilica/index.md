@@ -35,7 +35,7 @@ weight: 30
 # links:
 # - name: ""
 # url: 'https://epubs.siam.org/doi/abs/10.1137/19M1287080'
-# url_pdf: https://arxiv.org/pdf/1905.12553.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,4 +65,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
