@@ -25,6 +25,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Modelling the mechanisms of microsilica particle formation and growth
+subtitle: PhD Thesis
 doi: ""
 featured: false
 tags: []
