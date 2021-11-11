@@ -1,28 +1,30 @@
 ---
-title:    Dr Raquel Gonzalez-Farina
+title: Dr Raquel Gonzalez-Farina
 role: Applied Mathematician
 avatar_filename: avatar.jpg
 bio: My research interests include ....
 interests:
   - Mathematical Modelling
-  - Fluid Mechanics
+  - Fluid Dynamics
   - Asymptotic Methods
-  - Heat and Mass transfer
+  - Heat and Mass Transfer
   - Physical Chemistry
   - Mathematical Biology
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=6cNY45QAAAAJ&hl=en
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-6116-0807
+    icon_pack: ai
+    icon: orcid
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RaquelGF00
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=6cNY45QAAAAJ&hl=en
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/RaquelGoF
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/gonzalezfarinar
