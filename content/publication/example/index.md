@@ -1,87 +1,42 @@
 ---
-title: "An example conference paper"
+abstract: >-
+  Microsilica particles arise as a byproduct of silicon furnace operation,
+  created inside high temperature flames due to the combustion reaction of
+  silicon monoxide with oxygen. These nanoparticles, which grow as silicon
+  dioxide vapour condenses on the surface of existing particles, are used in a
+  variety of composite materials. The size and quality of the particles affect
+  the performance of the material used for such applications, and hence control
+  of these quantities is of importance to manufacturers.
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+
+  Motivated by this, we derive a mathematical model that connects local fluid flow, thermal and chemical conditions of the furnace to the formation and growth of microsilica particles. Since the regions where microsilica particles form are local to a very thin reaction zone, we focus on the dynamics within the flame front. We first study two distinct reductions of the model: the case of initially well-mixed or spatially homogeneous chemical species, and the case of initially separated chemical species. In the latter case, the one-dimensional domain is given by a cross section of the reaction zone and diffusion plays a dominant role in providing material to a combustion front. In order to incorporate fluid flow, we extend the previous work to 2-D by considering a mixing layer approach, that is, by assuming two parallel flows entering the domain with distinct velocities, temperatures, and concentrations. We study how the mixing layer evolves as both streams interact, and how mixing affects the formation and growth of particles. In all cases, we provide asymptotic approximations under various limits and neglecting the effect of the particles on the chemicals and temperature, and numerical solutions of the full model. Our results suggest that oxygen availability and a sufficiently high temperature are essential for the combustion reactions to occur, strongly influencing the width of the reaction zone and the particle size distribution. Furthermore, when the flow is almost uniform, fewer particles form and more of the total mass corresponds to large particles, in contrast with the non-uniform case.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "7"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+  - admin
+author_notes: []
+publication: Oxford University Research Archive (ORA)
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Modelling the mechanisms of microsilica particle formation and growth
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
 featured: false
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: Sketch of a silicon furnace.
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: featured.png
+date: 2021-04-10T05:32:50.861Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
