@@ -44,6 +44,3 @@ image:
   caption: SEM image of microsilica particles.
 date: 2020-04-27T02:13:38.192Z
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
