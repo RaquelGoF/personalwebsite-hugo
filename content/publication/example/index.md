@@ -22,7 +22,7 @@ summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: "https://ora.ox.ac.uk/objects/uuid:df016039-4c40-43ca-91a6-ffe0575aae77"
+url_source: ""
 url_video: ""
 title: Modelling the mechanisms of microsilica particle formation and growth
 subtitle: PhD Thesis
