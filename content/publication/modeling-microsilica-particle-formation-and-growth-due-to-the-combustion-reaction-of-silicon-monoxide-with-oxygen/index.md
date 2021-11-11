@@ -42,5 +42,8 @@ image:
   focal_point: Smart
   preview_only: false
   caption: SEM image of microsilica particles.
-date: 2021-11-11T01:13:38.192Z
+date: 2020-04-27T02:13:38.192Z
 ---
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
