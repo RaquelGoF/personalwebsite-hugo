@@ -15,9 +15,9 @@ url_pdf: ""
 publication_types:
   - "7"
 authors:
-  - R.Gonzalez-Farina
+  - R. Gonzalez-Farina
 author_notes: []
-publication: Oxford University Research Archive (ORA)
+publication: University of Oxford
 summary: ""
 url_dataset: ""
 url_project: ""
