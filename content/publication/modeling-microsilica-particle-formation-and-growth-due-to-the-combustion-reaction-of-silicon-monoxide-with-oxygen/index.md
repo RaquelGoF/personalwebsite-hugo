@@ -4,7 +4,7 @@ title: Modeling Microsilica Particle Formation and Growth Due to the Combustion
 publication_types:
   - "2"
 authors:
-  - R. Gonzalez-Farina
+  - admin
   - A. Münch
   - J. M. Oliver
   - R. A. Van Gorder
