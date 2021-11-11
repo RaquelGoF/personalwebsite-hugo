@@ -4,10 +4,10 @@ title: Modeling Microsilica Particle Formation and Growth Due to the Combustion
 publication_types:
   - "2"
 authors:
-  - Raquel González-Fariña
-  - Andreas Münch
-  - James M. Oliver
-  - Robert A. Van Gorder
+  - R. Gonzalez-Farina
+  - A. Münch
+  - J. M. Oliver
+  - R. A. Van Gorder
 doi: 10.1137/19M1287080
 publication: SIAM Journal on Applied Mathematics
 abstract: "Microsilica particles arise as a byproduct of silicon furnace
