@@ -7,7 +7,7 @@ url_video: ""
 date: 2021-11-11T02:37:02.245Z
 external_link: ""
 url_slides: ""
-subtitle: University of Oxford
+subtitle: University of Oxford, Elkem ASA
 tags:
   - Deep Learning
 links:
