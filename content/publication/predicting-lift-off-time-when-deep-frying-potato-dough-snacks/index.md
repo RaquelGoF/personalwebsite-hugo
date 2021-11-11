@@ -6,7 +6,7 @@ authors:
   - T. Babb
   - G. P. Benham
   - J. Bows
-  - admin
+  - R. Gonzalez-Farina
   - K. B. Kiradjiev
   - W. T. Lee
   - S. Tibos
