@@ -1,5 +1,5 @@
 ---
-title: "Optimisation of Fluid Mixing in a Hydrosac Growing Module (Phytoponics)"
+title: Optimisation of Fluid Mixing in a Hydrosac Growing Module (Phytoponics)
 authors:
 - Graham Benham
 - Alan Champneys
