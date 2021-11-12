@@ -1,5 +1,5 @@
 ---
-title: Study Groups
+title: Industrial Study Groups
 
 # View.
 #   1 = List
