@@ -33,7 +33,7 @@ publication: ""
 publication_short: ""
 
 
-abstract: "A mathematical model is sought for the flow of nutrients in the Hydrosac growing module being developed by Phytoponics. The basic operation involves long fluid-filled bags with periodic growing zones from which root systems emerge into the bulk fluid. The system is periodically perturbed via two main processes: partial drainage and refilling of each bag with nutrient infused water, with inlet and outlet at opposite ends of the bag; and a more violent oxygenation of the water through bubbles that rise from the pores of an aeration tube that runs underneath the central long axis of the bag."
+abstract: A mathematical model is sought for the flow of nutrients in the Hydrosac growing module being developed by Phytoponics. The basic operation involves long fluid-filled bags with periodic growing zones from which root systems emerge into the bulk fluid. The system is periodically perturbed via two main processes: partial drainage and refilling of each bag with nutrient infused water, with inlet and outlet at opposite ends of the bag; and a more violent oxygenation of the water through bubbles that rise from the pores of an aeration tube that runs underneath the central long axis of the bag.
 
 # Summary. An optional shortened abstract.
 summary:
