@@ -50,7 +50,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Raquel Gonzalez-Farina is an Applied Mathematician from the Canary Islands, Spain.  She is a former Postdoctoral Research Associate at Cardiff University, and former PhD student at the University of Oxford. Her research interests include...She leads ... 
+Raquel Gonzalez-Farina is an Applied Mathematician from the Canary Islands, Spain.  She is a former Postdoctoral Research Associate at Cardiff University, and former PhD student at the University of Oxford. Her research interests include...She leads ... Passionate about... and open for collaboration in ...
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
