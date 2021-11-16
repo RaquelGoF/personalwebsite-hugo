@@ -2,7 +2,7 @@
 title: Dr Raquel Gonzalez-Farina
 role: Applied Mathematician
 avatar_filename: avatar.jpg
-bio: Passionate about using mathematical and computational tools to tackle complex, real-world problems.
+bio: Mathematical modelling, fluid dynamics, asymptotics, physical chemistry, mathematical biology.
 interests:
   - Mathematical Modelling
   - Fluid Dynamics
