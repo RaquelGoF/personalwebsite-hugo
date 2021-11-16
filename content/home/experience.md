@@ -10,10 +10,12 @@ experience:
     date_start: 2021-02-01
     date_end: 2021-05-31
     description: >-
-    
         * Developing and improving mathematical models of the airborne transmission of COVID-19 indoors.
+
         * Presenting modelling updates to the Environmental subgroup of the Technical Advisory Group of the Welsh Government (project sponsor). 
+
         * Presenting results to the company Smart Separations Ltd (project sponsor).
+
         * Supervision of students for final project in the Fluid Mechanics course.
 
 widget_id: experience
