@@ -40,10 +40,10 @@ education:
     - course: DPhil in Industrially Focused Mathematical Modelling
       institution: University of Oxford
       year: 2021
-    - course: MSc in Modern Applications of Mathematics
+    - course: MSc in Modern Applications of Mathematics, Distinction
       institution: University of Bath
       year: 2016
-    - course: BSc in Mathematics
+    - course: BSc in Mathematics, 1st class
       institution: University of La Laguna
       year: 2015
 email: ""
