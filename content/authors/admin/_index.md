@@ -50,8 +50,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Raquel Gonzalez-Farina is an Applied Mathematician from the Canary Islands, Spain.  She is a former Postdoctoral Research Associate at Cardiff University, and former PhD student at the University of Oxford. Her research interests include...She leads ... Passionate about... and open for collaboration in ...
+I am an Applied Mathematician specialising in Mathematical Modelling of industrial and real-world problems arising in biology, physics, chemistry, and engineering. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I grew up in the Canary Islands (Spain), where I received my bachelors in Mathematics, before moving to the UK to learn more advanced applied mathematics. I graduated with a distinction from the University of Bath in MSc ‘Modern Applications of Mathematics’, which afforded me the opportunity to write a dissertation in collaboration with the company Schlumberger. The success of this work motivated me to pursue a PhD in Applied Mathematics as part of the Industrially Focused Mathematical Modelling Centre for Doctoral Training (InFoMM CDT) at the University of Oxford. My PhD research focused on the mathematical modelling of the formation and growth of microsilica particles resulting from a combustion reaction inside silicon furnaces, in collaboration with the company Elkem. 
+
+More recently, and during the COVID-19 pandemic, I was given the opportunity to work on developing models for the airborne transmission of SARS-CoV-2 in indoor spaces as a Postdoctoral Researcher at Cardiff University, as part of a project funded by the Welsh Government.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/raquel_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
