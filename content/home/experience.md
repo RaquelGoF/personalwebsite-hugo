@@ -12,11 +12,14 @@ experience:
     description: >-
         * Developing and improving mathematical models of the airborne transmission of COVID-19 indoors.
 
-        * Presenting modelling updates to the Environmental subgroup of the Technical Advisory Group of the Welsh Government (project sponsor). 
+        * Presenting modelling updates to the Technical Advisory Group of the Welsh Government (project sponsor). 
 
-        * Presenting results to the company Smart Separations Ltd (project sponsor).
+        * Presenting results to the company Smart Separations Ltd. (project sponsor).
 
         * Supervision of students for final project in the Fluid Mechanics course.
+
+        *Team*: Dr Katerina Kaouri (PI), Prof. Ian Griffiths (University of Oxford), Dr Aaron English (PDRA), Dr Alexander Pretty (PDRA), Zechariah Lau.
+
 
 widget_id: experience
 headless: true
