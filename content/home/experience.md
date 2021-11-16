@@ -20,7 +20,20 @@ experience:
 
 
         Team: Dr Katerina Kaouri (PI), Prof. Ian Griffiths (University of Oxford), Dr Aaron English (PDRA), Dr Alexander Pretty (PDRA), and Zechariah Lau.
-
+        
+  - title: Stipendary Lecturer
+    company: Jesus College, University of Oxford
+    company_url: ""
+    company_logo: cardiff-logo
+    location: United Kingdom
+    date_start: 2019-01-14
+    date_end: 2020-08-16
+    description: >-
+        Tutoring and marking coursework on a weekly basis, and preparing revision materials for undergraduate students at Jesus College, University of Oxford. 
+        
+        Course: Fourier Series and PDEs.
+        
+   
 
 widget_id: experience
 headless: true
