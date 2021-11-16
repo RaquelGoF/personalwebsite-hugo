@@ -19,7 +19,7 @@ experience:
         * Supervision of students for final project in the Fluid Mechanics course.
 
 
-        **Team**: Dr Katerina Kaouri (PI), Prof. Ian Griffiths (University of Oxford), Dr Aaron English (PDRA), Dr Alexander Pretty (PDRA), Zechariah Lau.
+        Team: Dr Katerina Kaouri (PI), Prof. Ian Griffiths (University of Oxford), Dr Aaron English (PDRA), Dr Alexander Pretty (PDRA), and Zechariah Lau.
 
 
 widget_id: experience
