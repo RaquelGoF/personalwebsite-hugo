@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-_10-week project in collaboration with Lein Applied Diagnostics (current [Occuity](https://www.occuity.com/)) as part of the [Industrially Focused Mathematical Centre for Doctoral Training (InFoMM CDT)](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt)._
+_10-week project in collaboration with Lein Applied Diagnostics (current [Occuity](https://www.occuity.com/)) as part of the [Industrially Focused Mathematical Centre for Doctoral Training (InFoMM CDT)](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt), University of Oxford._
 
 ## Abstract
 Several techniques exist to measure the thickness of ocular structures, such as histology, ultrasound, optical coherence tomography, and confocal microscopy. Lein Applied Diagnostics have developed a low-cost and non-invasive device to measure the thickness of the central cornea, that is, of the difference in distance
