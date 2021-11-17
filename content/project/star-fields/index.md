@@ -4,10 +4,10 @@ url_pdf: ""
 title: Characterising images of dense star fields
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2021-11-11T02:40:55.936Z
+date: 2015-05-11T02:40:55.936Z
 external_link: ""
 url_slides: ""
-subtitle: Astrophysical Institute of the Canary Islands, University of La Laguna
+subtitle: Astrophysical Institute of the Canary Islands, University of La Laguna (2015)
 tags:
   - Industry
 links:
