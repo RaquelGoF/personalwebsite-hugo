@@ -3,10 +3,10 @@ url_pdf: "https://riull.ull.es/xmlui/bitstream/handle/915/1069/Medida+de+Lebesgu
 title: The Lebesgue measure and the Fourier transform
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2021-11-11T02:40:23.615Z
+date: 2015-06-11T02:40:23.615Z
 external_link: ""
 url_slides: ""
-subtitle: University of La Laguna
+subtitle: BSc dissertation, University of La Laguna
 tags:
   - Demo
 image:
