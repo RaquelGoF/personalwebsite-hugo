@@ -7,7 +7,7 @@ publishDate: 2015-06-11T02:40:23.615Z
 date: 2015-06-11T02:40:23.615Z
 external_link: ""
 url_slides: ""
-subtitle: University of La Laguna (2015)
+subtitle: University of La Laguna (2014-2015)
 tags:
   - Other
 image:
