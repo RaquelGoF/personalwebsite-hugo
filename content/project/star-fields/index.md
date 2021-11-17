@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-title: Star fields
+title: Characterising images of dense star fields
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2021-11-11T02:40:55.936Z
@@ -16,7 +16,7 @@ links:
     name: Follow
     url: https://twitter.com/georgecushen
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Image of a galaxy taken by Raquel Gonzalez-Farina using a telescope at the Astrophysical Institute of the Canary Islands. 
   focal_point: Smart
 url_code: ""
 ---
