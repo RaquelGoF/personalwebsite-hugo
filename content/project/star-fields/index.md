@@ -5,7 +5,7 @@ url_video: ""
 date: 2015-05-11T02:40:55.936Z
 external_link: ""
 url_slides: ""
-url_company: "https://www.iac.es/en/about-us"
+url_source: "https://www.iac.es/en/about-us"
 subtitle: Astrophysical Institute of the Canary Islands, University of La Laguna (2015)
 tags:
   - Industry
