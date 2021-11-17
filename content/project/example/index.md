@@ -16,7 +16,7 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-Whilst a Postodoctoral Researcher at Cardiff University I worked on the project [“Mathematical modelling and smart coatings: fighting the COVID-19 pandemic”](https://www.cardiff.ac.uk/news/view/2497448-maths-continues-to-play-a-significant-role-in-fight-against-covid-19-with-important-new-project).
+As a Postodoctoral Researcher at Cardiff University I worked on the project [“Mathematical modelling and smart coatings: fighting the COVID-19 pandemic”](https://www.cardiff.ac.uk/news/view/2497448-maths-continues-to-play-a-significant-role-in-fight-against-covid-19-with-important-new-project).
 
 Sponsors: Smart Separations Ltd., Welsh Government, Royal Society.
 
