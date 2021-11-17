@@ -16,7 +16,7 @@ links:
     name: Follow
     url: https://twitter.com/georgecushen
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Sketch of a silicon furnace. Reproduced from The Si Process Drawings by Thorsteinn Hannesson.
   focal_point: Smart
 url_code: ""
 ---
