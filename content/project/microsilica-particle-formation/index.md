@@ -16,10 +16,11 @@ image:
 url_code: ""
 ---
 
-The present work corresponds to my PhD research project at the [University of Oxford](https://www.maths.ox.ac.uk/) in collaboration with the silicon manufacturer company [Elkem](https://www.elkem.com/).
+_The present work corresponds to my PhD research project at the [University of Oxford](https://www.maths.ox.ac.uk/) in collaboration with the silicon manufacturer company [Elkem](https://www.elkem.com/)._
 
-Academic Supervisors: [Dr Robert Van Gorder](https://sites.google.com/site/ravangorder/) (Univ. of Otago), [Prof. James Oliver](https://www.maths.ox.ac.uk/people/james.oliver) (Univ. of Oxford), [Prof. Andreas Münch](https://www.maths.ox.ac.uk/people/andreas.muench) (Univ. of Oxford).
-Industrial Supervisors: Aasgeir Valderhaug (Elkem), [Dr Ben Sloman](https://www.maths.ox.ac.uk/people/ben.sloman) (Elkem).
+**Academic Supervisors:** [Dr Robert Van Gorder](https://sites.google.com/site/ravangorder/) (Univ. of Otago), [Prof. James Oliver](https://www.maths.ox.ac.uk/people/james.oliver) (Univ. of Oxford), [Prof. Andreas Münch](https://www.maths.ox.ac.uk/people/andreas.muench) (Univ. of Oxford).
+
+**Industrial Supervisors:** Aasgeir Valderhaug (Elkem), [Dr Ben Sloman](https://www.maths.ox.ac.uk/people/ben.sloman) (Elkem).
 
 ## Background
 Microsilica particles are spherical particles smaller than a micrometre which are primarily composed of silicon dioxide. One way in which these particles are formed is as a byproduct of silicon production within furnaces, like the one sketched in the figure above. In particular, microsilica particles are created through the combustion of silicon monoxide with air, as the former escapes the furnace surface, producing silicon dioxide vapours. Growth of microsilica particles is through various mechanisms, including nucleation, condensation, aggregation, and agglomeration, which are highly dependent on temperature, chemical species concentrations, pressure, and fluid flow within the furnace domain. 
