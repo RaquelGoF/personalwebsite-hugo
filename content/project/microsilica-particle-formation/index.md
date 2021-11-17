@@ -9,7 +9,7 @@ external_link: ""
 url_slides: ""
 subtitle: University of Oxford, Elkem ASA
 tags:
-  - Deep Learning
+  - Industry
 links:
   - icon: twitter
     icon_pack: fab
