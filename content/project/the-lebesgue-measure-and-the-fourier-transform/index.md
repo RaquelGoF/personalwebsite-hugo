@@ -7,8 +7,6 @@ date: 2021-11-11T02:40:23.615Z
 external_link: ""
 url_slides: ""
 subtitle: University of La Laguna
-tags:
-  - Industry
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
