@@ -16,11 +16,11 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-As a Postodoctoral Researcher at Cardiff University I worked on the project [“Mathematical modelling and smart coatings: fighting the COVID-19 pandemic”](https://www.cardiff.ac.uk/news/view/2497448-maths-continues-to-play-a-significant-role-in-fight-against-covid-19-with-important-new-project).
+_As a Postodoctoral Researcher at Cardiff University I worked on the project [“Mathematical modelling and smart coatings: fighting the COVID-19 pandemic”](https://www.cardiff.ac.uk/news/view/2497448-maths-continues-to-play-a-significant-role-in-fight-against-covid-19-with-important-new-project)._
 
-Collaborators: Smart Separations Ltd., Welsh Government, Royal Society.
+**Collaborators:** Smart Separations Ltd., Welsh Government, Royal Society.
 
-Team: Dr Katerina Kaouri (PI), Prof. Ian Griffiths (University of Oxford), Dr Aaron English (PDRA), Dr Alexander Pretty (PDRA), Zechariah Lau.
+**Research team:** Dr Katerina Kaouri (PI), Prof. Ian Griffiths (University of Oxford), Dr Aaron English (PDRA), Dr Alexander Pretty (PDRA), Zechariah Lau.
 
 ## Abstract
 Probabilistic models for indoors airborne transmission of viruses, such as the Wells-Riley model (Riley et al., 1978) and its extensions applied to COVID-19, for example (Buonanno et al., 2020), assume that the concentration of infectious particles in the room is uniform in space. We have developed a spatially dependent generalisation to such models to determine the infection risk in indoor spaces. We model the concentration of airborne infectious particles using an advection-diffusion-reaction equation where the particles are emitted by an infected person, advected by airflow, diffused due to turbulence, and removed due to the room ventilation, biological inactivation of the virus and gravitational settling. The model is quasi-three-dimensional and incorporates a recirculating flow due to air-conditioning. We are able to obtain a semi-analytic solution which allows for very fast simulations. An important aspect of our work is that we include realistic particle size distributions. We consider that the particle emission rate and the gravitational settling rate depend on the size of the particles. Most airborne transmission models only account for a single particle size and, thus, assume a constant settling rate. We find that this simplifying assumption may significantly alter the predicted infection risk in a room. We also quantify the effect of several ventilation settings and different activities such as breathing, talking and coughing, on the particle concentration and the infection risk. Finally, we determine the time to probable infection (TTPI), at any location in a room, paving the way for formulating recommendations. Good agreement with CFD models and existing data is obtained.
