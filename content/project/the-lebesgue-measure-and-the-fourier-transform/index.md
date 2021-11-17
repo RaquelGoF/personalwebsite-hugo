@@ -8,7 +8,7 @@ external_link: ""
 url_slides: ""
 subtitle: University of La Laguna (BSc dissertation)
 tags:
-  - Demo
+  - Other
 image:
   caption: Lebesgue measure is invariant under translations
   focal_point: Smart
