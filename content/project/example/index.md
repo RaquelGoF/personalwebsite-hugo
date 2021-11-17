@@ -2,9 +2,9 @@
 slides: example
 url_pdf: ""
 title: Airborne transmission of COVID-19
-summary: Numerical and analytical solutions of advection-diffusion-reaction equations and CFD simulations to model air flows and transport of SARS-CoV-2 in indoor spaces.
+summary: Numerical and analytical solutions of advection-diffusion-reaction equations and CFD simulations to model air flows and transport of SARS-CoV-2 particles in indoor spaces.
 url_video: ""
-date: 2016-04-27T00:00:00.000Z
+date: 2021-05-31T00:00:00.000Z
 external_link: ""
 url_slides: ""
 subtitle: Cardiff University, SSL Ltd., Welsh Government
