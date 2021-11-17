@@ -17,7 +17,7 @@ image:
 url_code: ""
 ---
 
-This project corresponds to my BSc dissertation at the University of La Laguna (Department of Mathematical Analysis).
+This project corresponds to my BSc dissertation at the [University of La Laguna](https://www.ull.es/en/) (Department of Mathematical Analysis).
 
 ## **Abstract**
 The present work is mainly divided into two parts. In the first we deal in great detail with the Riesz’s representation Theorem and certain properties enjoyed by positive Borel measures. The latter theorem asserts the existence of a measure representing a given positive linear functional defined in the space of compactly supported functions on locally compact Hausdorff spaces via integration. This allows us to present a non constructive proof of the existence of Lebesgue measure.
