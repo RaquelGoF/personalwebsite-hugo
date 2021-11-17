@@ -6,7 +6,7 @@ summary: An example of using the in-built project page.
 url_video: ""
 external_link: ""
 url_slides: ""
-subtitle: University of Bath, Schlumberger - 2016
+subtitle: University of Bath, Schlumberger (2016)
 tags:
   - Industry
 
