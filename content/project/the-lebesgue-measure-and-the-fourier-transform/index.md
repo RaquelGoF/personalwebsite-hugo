@@ -8,7 +8,7 @@ external_link: ""
 url_slides: ""
 subtitle: University of La Laguna
 tag:
-    -Demo
+  -Demo
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
