@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 title: Seismic data representation
-summary: Assuming that the seismic data satisfies the wave equation, we carry out non-linear least squares approximations for representing this data. 
+summary: We model seismic data by assuming that it satisfies the wave equation and solving a non-linear least-squares optimisation problem.
 url_video: ""
 external_link: ""
 url_slides: ""
