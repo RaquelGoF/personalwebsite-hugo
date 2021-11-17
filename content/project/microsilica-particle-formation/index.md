@@ -16,7 +16,7 @@ image:
 url_code: ""
 ---
 
-The present work corresponds to my PhD research project at the University of Oxford in collaboration with the silicon manufacturer company Elkem ASA.
+The present work corresponds to my PhD research project at the [University of Oxford](https://www.maths.ox.ac.uk/) in collaboration with the silicon manufacturer company [Elkem](https://www.elkem.com/).
 
 ## Background
 Microsilica particles are spherical particles smaller than a micrometre which are primarily composed of silicon dioxide. One way in which these particles are formed is as a byproduct of silicon production within furnaces, like the one sketched in the figure above. In particular, microsilica particles are created through the combustion of silicon monoxide with air, as the former escapes the furnace surface, producing silicon dioxide vapours. Growth of microsilica particles is through various mechanisms, including nucleation, condensation, aggregation, and agglomeration, which are highly dependent on temperature, chemical species concentrations, pressure, and fluid flow within the furnace domain. 
@@ -30,3 +30,4 @@ Since the regions where microsilica particles form are local to a very thin reac
 
 In order to incorporate fluid flow, we extended the previous work to 2-D by considering a mixing layer approach, that is, by assuming two parallel flows entering the domain with distinct velocities, temperatures, and concentrations (one stream is only composed of fuel and the other of oxygen). We studied how the mixing layer evolves as both streams interact, and how mixing affects the formation and growth of particles.  Specifically, we examined how the ratio of the streams velocities affects the final particle size distribution and we conclude that there are no significant differences in the final number density function of particles. However, our results suggest that when the flow is almost uniform, less particles form and more of the total mass corresponds to large particles, in contrast with the non-uniform case.
 
+You can find the main source of the above description [here](http://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/infomm-resear-34) and a relevant publication [here](https://epubs.siam.org/doi/abs/10.1137/19M1287080).
