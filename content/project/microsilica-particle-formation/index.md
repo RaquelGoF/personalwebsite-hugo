@@ -1,8 +1,8 @@
 ---
 slides: example
 url_pdf: ""
-title: Microsilica particle formation
-summary: An example of using the in-built project page.
+title: Microsilica particle formation and growth
+summary: Modelling the formation and growth of microsilica particles due to the combustion reaction of silicon monoxide with oxygen inside silicon furnaces.
 url_video: ""
 date: 2021-11-11T02:37:02.245Z
 external_link: ""
