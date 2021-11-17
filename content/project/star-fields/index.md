@@ -1,6 +1,6 @@
 ---
-title: Characterising images of dense star fields
-summary: An example of using the in-built project page.
+title: Characterising images of dense stellar fields
+summary: Modelling synthetic images simulating dense stellar fields to characterize the dependence of the measured magnitude of the stars on different observational effects.
 url_video: ""
 date: 2015-05-11T02:40:55.936Z
 external_link: ""
