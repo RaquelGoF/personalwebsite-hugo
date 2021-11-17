@@ -1,6 +1,6 @@
 ---
 slides: example
-url_pdf: ""
+url_pdf: "https://www.maths.ox.ac.uk/system/files/attachments/LayReport_GonzalesFarina_Lein_final.pdf"
 title: Improving the accuracy of optical measurements
 summary: An example of using the in-built project page.
 url_video: ""
@@ -9,7 +9,7 @@ external_link: ""
 url_slides: ""
 subtitle: University of Oxford, Lein Applied Diagnostics
 tags:
-  - Deep Learning
+  - Industry
 links:
   - icon: twitter
     icon_pack: fab
