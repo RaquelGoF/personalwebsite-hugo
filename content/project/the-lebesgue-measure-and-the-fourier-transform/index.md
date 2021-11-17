@@ -8,12 +8,7 @@ external_link: ""
 url_slides: ""
 subtitle: University of La Laguna
 tags:
-  - Deep Learning
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - Industry
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
