@@ -1,13 +1,13 @@
 ---
 slides: example
 url_pdf: ""
-title: COVID-19 modelling
-summary: An example of using the in-built project page.
+title: Airborne transmission of COVID-19
+summary: Numerical and analytical solutions of advection-diffusion-reaction equations and CFD simulations to model air flows and transport of SARS-CoV-2 in indoor spaces.
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
-subtitle: Cardiff University, SSL, Welsh Government
+subtitle: Cardiff University, SSL Ltd., Welsh Government
 tags:
   - Deep Learning
 links:
@@ -16,7 +16,7 @@ links:
     name: Follow
     url: https://twitter.com/georgecushen
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Lilanakani on Getty Images/iStockphoto
   focal_point: Smart
 url_code: ""
 ---
