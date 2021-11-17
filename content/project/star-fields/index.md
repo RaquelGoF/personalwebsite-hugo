@@ -9,7 +9,7 @@ external_link: ""
 url_slides: ""
 subtitle: Astrophysical Institute of the Canary Islands, University of La Laguna
 tags:
-  - Deep Learning
+  - Industry
 links:
   - icon: twitter
     icon_pack: fab
