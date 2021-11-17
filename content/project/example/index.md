@@ -4,9 +4,9 @@ title: Airborne transmission of COVID-19
 summary: Numerical and analytical solutions of advection-diffusion-reaction equations and CFD simulations to model air flows and transport of SARS-CoV-2 particles indoors.
 url_video: ""
 date: 2021-05-31T00:00:00.000Z
-external_link: "https://www.cardiff.ac.uk/news/view/2497448-maths-continues-to-play-a-significant-role-in-fight-against-covid-19-with-important-new-project"
+external_link: ""
 url_slides: ""
-subtitle: Cardiff University, SSL Ltd., Welsh Government
+subtitle: Cardiff University, SSL Ltd., Welsh Government (2021)
 tags:
   - Industry
 
@@ -16,7 +16,7 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-Whilst a Postodoctoral Researcher at Cardiff University I worked on the project “Mathematical modelling and smart coatings: fighting the COVID-19 pandemic”.
+Whilst a Postodoctoral Researcher at Cardiff University I worked on the project [“Mathematical modelling and smart coatings: fighting the COVID-19 pandemic”](https://www.cardiff.ac.uk/news/view/2497448-maths-continues-to-play-a-significant-role-in-fight-against-covid-19-with-important-new-project).
 
 Sponsors: Smart Separations Ltd., Welsh Government, Royal Society.
 
