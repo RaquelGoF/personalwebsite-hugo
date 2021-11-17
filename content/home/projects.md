@@ -29,7 +29,7 @@ content:
     tag: '*'
   - name: Industry
     tag: Industry
-  - name: Pure maths
+  - name: Other
     tag: Demo
 
 design:
