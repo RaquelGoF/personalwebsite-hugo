@@ -24,7 +24,7 @@ experience:
   - title: Stipendary Lecturer
     company: Jesus College, University of Oxford
     company_url: ""
-    company_logo: cardiff-logo
+    company_logo: jesus-logo
     location: United Kingdom
     date_start: 2019-01-14
     date_end: 2020-08-16
