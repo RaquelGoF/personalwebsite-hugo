@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-This research project corresponds to my MSc dissertation at the University of Bath in collaboration with the oil services company Schlumberger.
+This research project corresponds to my MSc dissertation at the [University of Bath](https://www.bath.ac.uk/) in collaboration with the oil services company [Schlumberger](https://www.slb.com/).
 
 ## **Abstract**
 Assuming that the seismic data verifies the acoustic wave equation, its Fourier transform resides within a signal cone. Functions whose Fourier transform lives within a signal cone are called C-limited functions. Thus the seismic data can be modeled as a convolution in terms of the kernel for C-limited functions. This kernel, K_C, is defined as the inverse Fourier transform of the characteristic function over the signal cone. It decays slowly in space and time which limits its usage. To overcome this we introduce the C-Gaussian function, K_G, whose Fourier transform decays exponentially with respect to slowness and frequency.
