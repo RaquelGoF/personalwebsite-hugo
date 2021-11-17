@@ -15,10 +15,10 @@ main:
     weight: 30
   - name: Industry
     url: '#studygroups'
-    weight: 25
+    weight: 40
   - name: Talks
     url: '#talks'
-    weight: 40
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
