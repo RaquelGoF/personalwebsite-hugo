@@ -1,18 +1,18 @@
 ---
 url_pdf: "https://riull.ull.es/xmlui/bitstream/handle/915/1069/Medida+de+Lebesgue+y+la+Transformacion+de+Fourier.pdf?sequence=1"
 title: The Lebesgue measure and the Fourier transform
-summary: An example of using the in-built project page.
+summary: Riesz's representation theorem and non constructive proof of the existence of Lebesgue measure. Fourier analysis and applications of the Fourier transform.
 url_video: ""
 date: 2015-06-11T02:40:23.615Z
 external_link: ""
 url_slides: ""
-subtitle: BSc dissertation, University of La Laguna
+subtitle: University of La Laguna (BSc dissertation)
 tags:
   - Demo
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Lebesgue measure is invariant under translations
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 url_code: ""
 ---
 
