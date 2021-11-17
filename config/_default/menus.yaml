@@ -10,15 +10,12 @@ main:
   - name: Research
     url: '#projects'
     weight: 20
-  - name: Industry
-    url: '#studygroups'
-    weight: 25
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Teaching
-    url: '#teaching'
-    weight: 35
+  - name: Industry
+    url: '#studygroups'
+    weight: 25
   - name: Talks
     url: '#talks'
     weight: 40
