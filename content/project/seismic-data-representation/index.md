@@ -1,5 +1,4 @@
 ---
-slides: example
 url_pdf: ""
 title: Seismic data representation
 summary: We model seismic data by assuming that it satisfies the wave equation and solving a non-linear least-squares optimisation problem.
