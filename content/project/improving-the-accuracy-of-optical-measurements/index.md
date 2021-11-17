@@ -7,26 +7,22 @@ url_video: ""
 date: 2021-11-11T02:37:31.811Z
 external_link: ""
 url_slides: ""
-subtitle: University of Oxford, Lein Applied Diagnostics
+subtitle: University of Oxford, Lein Applied Diagnostics (2017)
 tags:
   - Industry
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Different layers in the eye cornea.
   focal_point: Smart
 url_code: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Several techniques exist to measure the thickness of ocular structures, such as histology, ultrasound, optical coherence tomography, and confocal microscopy. Lein Applied Diagnostics have developed a low-cost and non-invasive device to measure the thickness of the central cornea, that is, of the difference in distance
+between the epithelium (or anterior cornea) and endothelium (or posterior cornea) surfaces from a reference point located at the optical axis.
+An accurate measurement of the central corneal thickness is vital for the diagnosis of glaucoma, a leading cause of vision loss. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+The non-contact system developed by Lein is based on a confocal focus-detection scheme. The measurements are obtained by looking at the intensity peaks obtained from light reflected by the eye. However, the signal reflected by the posterior cornea is very weak, and thus the posterior peak is much more difficult to detect. Moreover, the signal is usually corrupted by random noise that may be due to imperfections in the optical system, movement of the eye during the test, or presence of microstructures within the cornea. The aim of this project was to improve the accuracy and efficiency of the thickness measurements by enhancing the
+quality of the signal first, proposing a new peak detection algorithm and analysing the use of different statistics or estimates of the thickness. 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+You can find a more detailed description of the project and results in [this lay-report](https://www.maths.ox.ac.uk/system/files/attachments/LayReport_GonzalesFarina_Lein_final.pdf).
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
