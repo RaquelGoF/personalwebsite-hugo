@@ -7,8 +7,8 @@ date: 2021-11-11T02:40:23.615Z
 external_link: ""
 url_slides: ""
 subtitle: University of La Laguna
-tag:
-  -Demo
+tags:
+  - Demo
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
