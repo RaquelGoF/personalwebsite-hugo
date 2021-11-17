@@ -36,7 +36,7 @@ experience:
   - title: Teaching Assistant
     company: University of Oxford
     company_url: ""
-    company_logo: ""
+    company_logo: oxford-logo
     location: United Kingdom
     date_start: 2017-10-09
     date_end: 2018-12-21
