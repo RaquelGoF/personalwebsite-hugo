@@ -2,7 +2,7 @@
 slides: example
 url_pdf: "https://www.maths.ox.ac.uk/system/files/attachments/LayReport_GonzalesFarina_Lein_final.pdf"
 title: Improving the accuracy of optical measurements
-summary: An example of using the in-built project page.
+summary: We propose several signal processing techniques and algorithms to improve the detection of peaks in the signals, required to obtain a measurement of the cornal tickness.
 url_video: ""
 date: 2021-11-11T02:37:31.811Z
 external_link: ""
