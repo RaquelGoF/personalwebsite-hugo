@@ -29,11 +29,30 @@ experience:
     date_start: 2019-01-14
     date_end: 2020-08-16
     description: >-
-        Tutoring and marking coursework on a weekly basis, and preparing revision materials for undergraduate students at Jesus College, University of Oxford. 
+        Teaching tutorials, preparing revision materials, and marking assignments on a weekly basis for undergraduate students at Jesus College, University of Oxford. 
         
         Course: Fourier Series and PDEs.
-        
-   
+
+  - title: Teaching Assistant
+    company: University of Oxford
+    company_url: ""
+    company_logo: ""
+    location: United Kingdom
+    date_start: 2017-10-09
+    date_end: 2018-12-21
+    description: >-
+        Teaching, marking assignments, and writing student reports for several undergraduate courses:
+    
+    
+        * Applied Partial Differential Equations
+
+        * Further Mathematical Biology
+
+        * Introductory Calculus
+
+        * Waves and Compressible Flow 
+
+
 
 widget_id: experience
 headless: true
