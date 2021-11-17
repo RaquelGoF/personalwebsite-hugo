@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
+  - name: Industry
+    tag: Industry
+  - name: Pure math
     tag: Demo
 
 design:
