@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 title: Seismic data representation
-summary: An example of using the in-built project page.
+summary: Assuming that the seismic data satisfies the wave equation, we carry out non-linear least squares approximations for representing this data. 
 url_video: ""
 external_link: ""
 url_slides: ""
