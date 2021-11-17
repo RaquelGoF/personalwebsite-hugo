@@ -31,8 +31,7 @@ experience:
     description: >-
         Tutoring and marking coursework on a weekly basis, and preparing revision materials for undergraduate students at Jesus College, University of Oxford. 
         
-        
-        Course: Fourier Series and PDEs.
+        Course: **Fourier Series and PDEs**.
         
    
 
