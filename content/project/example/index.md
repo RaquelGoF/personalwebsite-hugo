@@ -9,7 +9,7 @@ external_link: ""
 url_slides: ""
 subtitle: Cardiff University, SSL Ltd., Welsh Government
 tags:
-  - Deep Learning
+  - Industry
 links:
   - icon: twitter
     icon_pack: fab
