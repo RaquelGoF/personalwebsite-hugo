@@ -41,4 +41,4 @@ design:
 ---
 **Section in progress**
 
-Please check back soon or refer to my resumé for more details.
+Please check back soon or refer to my {{< staticref "uploads/raquel_resume.pdf" "newtab" >}}resumé{{< /staticref >}} for more details.
