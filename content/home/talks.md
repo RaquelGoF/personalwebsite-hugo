@@ -39,3 +39,6 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+**Section in progress**
+
+Please check back soon or refer to my resumé for more details.
