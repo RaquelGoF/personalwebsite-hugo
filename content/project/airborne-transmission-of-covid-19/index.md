@@ -18,7 +18,7 @@ url_code: ""
 ---
 _As a Postodoctoral Researcher at Cardiff University I worked on the project [“Mathematical modelling and smart coatings: fighting the COVID-19 pandemic”](https://www.cardiff.ac.uk/news/view/2497448-maths-continues-to-play-a-significant-role-in-fight-against-covid-19-with-important-new-project)._
 
-**Collaborators:** Smart Separations Ltd., Welsh Government, Royal Society.
+**Collaborators:** Smart Separations Ltd., Welsh Government, The Royal Society.
 
 **Research team:** Dr Katerina Kaouri (PI), Prof. Ian Griffiths (University of Oxford), Dr Aaron English (PDRA), Dr Alexander Pretty (PDRA), Zechariah Lau.
 
